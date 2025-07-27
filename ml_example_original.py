@@ -30,3 +30,4 @@ print ('Accuracy: ', accuracy*100)
 
 f1 = f1_score(y_test, y_pred, average='macro')¶
 print ('F1 score: ', f1)
+print("from print")
